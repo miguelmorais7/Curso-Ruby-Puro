@@ -1,7 +1,7 @@
 # Curso-Ruby-Puro
 Curso ofertado gratuitamente pela plataforma OneBitCode, com foco em aprendizado em Ruby puro
 
-**Aula 01 - Introdução
+## Aula 01 - Introdução
 
 Criado na década de 90 pelo japonês Yukihiro Matsumoto;
 Lançado em 1995;
@@ -18,7 +18,7 @@ Codeanywhere
 Rodar no cAny - ruby program.rb
 irb
 
-**Aula 02 - Conceitos Básicos
+## Aula 02 - Conceitos Básicos
 
 ->Tipos de dados - classificação de dados possibilitando a definição de 
 regras para cada tipo
