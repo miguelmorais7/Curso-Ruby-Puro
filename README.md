@@ -39,6 +39,17 @@ seus valores respectivos
 
 ## Aula 04 - Collections
 
+Collection/Array/Hash/Iterações
+
+->Collection - representa um conjunto de dados semelhantes em uma unidade.
+
+->Each - Percorre uma coleção de forma parecida ao for, porém, não sobrescrevendo o valor de variáveis 
+fora da estrutura de repetição
+
+->Select - Realiza uma seleção de elementos presentes em uma collection 
+através de uma condição pré definida. Traz como resultado somente os 
+valores que passam nesta condição.
+
 ## Aula 05 - Métodos e Gems
 
 ## Aula 06 - Programação Orientada a Objetos I

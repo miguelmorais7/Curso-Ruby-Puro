@@ -1,0 +1,57 @@
+Collections/Array IRB
+
+Aula 04> irb
+=> []
+irb(main):002:0> estados.push('SP')
+=> ["SP"]
+irb(main):003:0> estados.push('MG','RJ','ES')
+=> ["SP", "MG", "RJ", "ES"]
+SP
+RJ
+ES
+=> nil
+irb(main):005:0> estados.insert(0, 'AC','AP')
+=> ["AC", "AP", "SP", "MG", "RJ", "ES"]
+irb(main):006:0> puts estados
+AC
+SP
+RJ
+=> nil
+=> "AP"
+=> ["SP", "MG", "RJ", "ES"]
+=> "RJ"
+=> "AC"
+irb(main):011:0> estados.last
+=> "ES"
+irb(main):012:0> estados.count
+=> 6
+irb(main):013:0> estados.lenght
+Traceback (most recent call last):
+        4: from C:/Ruby27-x64/bin/irb.cmd:31:in `<main>'     
+        3: from C:/Ruby27-x64/bin/irb.cmd:31:in `load'       
+2.6/exe/irb:11:in `<top (required)>'
+NoMethodError (undefined method `lenght' for ["AC", "AP", "SPDid you mean?  length
+=> 6
+=> false
+irb(main):016:0> estados.delete_at(2)
+=> "SP"
+irb(main):017:0> estados.pop
+=> "ES"
+irb(main):018:0> estados.shift
+=> "AC"
+irb(main):019:0>
+
+HASH
+Aula 04>irb
+irb(main):002:0> capitais = {acre: 'Rio Branco', sao_paulo: '=> {:acre=>"Rio Branco", :sao_paulo=>"São Paulo"}
+=> "Belo Horizonte"
+=> "Belo Horizonte"
+=> [:acre, :sao_paulo, :minas_gerais]
+=> ["Rio Branco", "São Paulo", "Belo Horizonte"]
+irb(main):007:0> capitais.delete(:acre)
+=> "Rio Branco"
+irb(main):008:0> capitais.size        
+=> 2
+irb(main):009:0> capitais.empty?
+=> false
+
