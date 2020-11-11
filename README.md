@@ -37,6 +37,24 @@ seus valores respectivos
 
 ## Aula 03 - Estruturas de Controle
 
+Estruturas de Controle
+Condicional
+If/Else/Elsif
+Unless
+Case
+Iteração
+For
+While
+Times
+Do/While (Loop)
+Iteração + Condicional
+
+Unless
+Enquanto o if é executado quando sua condição é verdadeira, o unless ocorre de forma contrária. É executado apenas quando a condição é falsa.
+
+Missões especiais
+Utilizando as estruturas de iteração e condição, crie uma calculadora que ofereça ao usuário a opção de Multiplicar, Dividir, Adicionar ou Subtrair dois números. Não se esqueça de também permitir que o usuário feche o programa.
+
 ## Aula 04 - Collections
 
 Collection/Array/Hash/Iterações
